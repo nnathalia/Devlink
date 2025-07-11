@@ -1,7 +1,8 @@
 # 🌐 DEVLINK
 
 Uma página pessoal estilo Linktree para reunir seus principais links, redes sociais e portfólio em um só lugar — com um visual moderno e responsivo.
-[Acesse aqui!]([URL](https://nnathalia.github.io/Devlink/))
+
+[Acesse aqui!](https://nnathalia.github.io/Devlink/)
 
 
 ## ✨ Funcionalidades
